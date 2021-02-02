@@ -1,3 +1,10 @@
 body {
   background-color:rgb(185, 58, 58);
 }
+
+footer {
+  font-size: 1rem;
+  background-color: black;
+  color: aliceblue;
+  padding: 1rem;
+}
